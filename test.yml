@@ -1,2 +1,2 @@
 test:
-  value: kafka-busrefresh
+  value: kafka-busrefresh ready user,product,order
